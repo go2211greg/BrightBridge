@@ -1,0 +1,20 @@
+09:59:50.859  started; 2 binding(s), targets=''
+10:05:19.757  started; 2 binding(s), targets=''
+10:08:26.453  display change; rescanning monitors
+10:08:26.469  rescan: 2 physical monitor(s)
+10:09:07.810  rescan: 2 physical monitor(s)
+10:13:21.053  started; 2 binding(s), targets=''
+10:17:27.894  config reloaded; 2 binding(s)
+10:18:19.751  autostart enabled
+10:28:13.454  started; 2 binding(s), targets=''
+10:47:00.728  started; 2 binding(s), targets=''
+12:42:11.051  started; 2 binding(s), targets=''
+12:43:49.479  display change; rescanning monitors
+12:43:49.522  rescan: 2 physical monitor(s)
+12:43:51.485  display change; rescanning monitors
+12:43:51.501  rescan: 2 physical monitor(s)
+12:43:51.764  vcp 0x10 unsupported on Dell G3223Q (DP)
+12:43:51.768  display change; rescanning monitors
+12:43:51.871  rescan: 2 physical monitor(s)
+12:43:51.927  vcp 0x10 unsupported on Dell G3223Q (DP)
+12:44:07.650  rescan: 2 physical monitor(s)
